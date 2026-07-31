@@ -56,6 +56,16 @@ A selection of web applications I have built:
 
 ---
 
+### 🛠️ Technology Icon Symbols
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,java,cpp,dart,bash,dotnet,react,nextjs,nodejs,fastapi,html,css,tailwind,aws,postgres,mongodb,firebase,docker,git,github,vite,postman,vercel,linux,vscode,figma&perline=10" alt="Skill Icon Symbols" />
+  </a>
+</p>
+
+---
+
 ### 💻 Tech Stack & Engineering Skills
 
 #### 💻 Programming Languages
